@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @notnightig
+- 👀 I’m interested in coding and hardware
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on future projects
+- 📫 How to reach me Discord
