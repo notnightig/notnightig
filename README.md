@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notnightig
-- 👀 I’m interested in coding and hardware
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding and hardware (mostly hardware here to learn doe!)
+- 🌱 I’m currently learning Python,CSS,HTML,JS,TS
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me Discord
 - Hit me up anytime ty
